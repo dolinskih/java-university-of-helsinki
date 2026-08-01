@@ -21,5 +21,7 @@ public class NullPointerExceptionProgram {
             index++;
         }
 
+        lines.add(null);
+        System.out.println(lines.get(6).toLowerCase());
     }
 }
