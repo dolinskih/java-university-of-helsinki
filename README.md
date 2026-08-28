@@ -12,10 +12,10 @@ The course is split into two main sections:
 
 ## Tech Stack & Tools
 * **Language:** Java
-* **IDE:** IntelliJ IDEA
+* **IDE:** Microsoft Visual Studio Code
 * **Testing:** TMC (Test My Code) plugin for automated verification
 
 ## Repository Structure
 The repository is organized by course parts:
-* `/part01` to `/part07` - Fundamentals of Java & Intro to OOP
-* `/part08` to `/part14` - Advanced OOP, Collections, and Streams
+* `/tmcdata/mooc-java-programming-i` - Course I: Fundamentals of Java & Intro to OOP
+* `/tmcdata/mooc-java-programming-ii` - Course II: Advanced OOP, Collections, and Streams
